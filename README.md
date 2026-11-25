@@ -18,7 +18,7 @@ knowledge-base/
 └── my-daily-conquest/     ← notes from the "My Daily Conquest" project
 ```
 
-- **one folder per Claude project, named after the project** (lowercase, hyphens). Add a new folder whenever a new project starts.
+- **One folder per Claude project, named after the project** (lowercase, hyphens). Add a new folder whenever a new project starts.
 - **One note per subject.** For example `bible-thoughts/names/jerusalem.md`.
 - **File names:** lowercase, words joined with hyphens (`king-david.md`, not `King David.md`).
 - **Notes are Markdown** (`.md`), which is plain text with a few symbols for headings and lists.
