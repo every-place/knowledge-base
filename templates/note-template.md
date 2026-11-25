@@ -1,7 +1,7 @@
 # Name or Topic
 
 **Type:** name / place / person / topic
-**Related projects:** bible-research, my-daily-conquest
+**Related projects:** bible-thoughts, my-daily-conquest
 **Last updated:** YYYY-MM-DD
 
 ## Summary

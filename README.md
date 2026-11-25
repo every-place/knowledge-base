@@ -12,14 +12,14 @@ knowledge-base/
 ├── README.md              ← you are here
 ├── templates/
 │   └── note-template.md   ← copy this to start a new note
-├── bible-research/        ← notes from the "Bible Thoughts" project
+├── bible-thoughts/        ← notes from the "Bible Thoughts" project
 │   ├── names/             ← one note per name (people, cities, kings)
 │   └── topics/            ← one note per theme or study
 └── my-daily-conquest/     ← notes from the "My Daily Conquest" project
 ```
 
-- **One folder per project or topic.** Add a new folder whenever a new project starts.
-- **One note per subject.** For example `bible-research/names/jerusalem.md`.
+- **one folder per Claude project, named after the project** (lowercase, hyphens). Add a new folder whenever a new project starts.
+- **One note per subject.** For example `bible-thoughts/names/jerusalem.md`.
 - **File names:** lowercase, words joined with hyphens (`king-david.md`, not `King David.md`).
 - **Notes are Markdown** (`.md`), which is plain text with a few symbols for headings and lists.
 
